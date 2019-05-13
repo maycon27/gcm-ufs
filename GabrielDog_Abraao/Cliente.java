@@ -12,5 +12,5 @@ public class Cliente{
 	public getNome(){
 		return this.nome;
 	}
-
+//classe
 }
