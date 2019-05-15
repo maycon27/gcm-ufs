@@ -16,7 +16,7 @@ public class GerenciadorCliente {
 	public float accounting (float saldo){}
 	public int identificador(int u){}
 =======
-	public void calcular(Cliente cliente){}
+	public void calcular(Cliente cliente, int k){}
 =======
 	public void buscar(Cliente cliente, int k){
 		System.out.println();
